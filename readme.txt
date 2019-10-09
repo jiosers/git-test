@@ -3,4 +3,7 @@ user:
     getUserId,
     deleteUserId,
     modifyUserId,
-    getAllUser
+    getAllUser,
+    
+authority:
+    add
