@@ -2,4 +2,5 @@ user:
     add,
     getUserId,
     deleteUserId,
-    modifyUserId
+    modifyUserId,
+    getAllUser
