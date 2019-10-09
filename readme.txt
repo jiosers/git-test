@@ -6,4 +6,5 @@ user:
     getAllUser,
     
 authority:
-    add
+    add,
+    getAuthorityId
