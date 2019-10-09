@@ -7,4 +7,5 @@ user:
     
 authority:
     add,
-    getAuthorityId
+    getAuthorityId,
+    delete
